@@ -301,7 +301,7 @@ footer p {
 }
 
 /*Media query Desktop Medida de 1440px*/
-@media (min-width: 1440px){
+@media (min-width: 1024px){
 
     /*Estilos generales del header en la vista Desktop*/
     header {
